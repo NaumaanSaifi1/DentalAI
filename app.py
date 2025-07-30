@@ -2,7 +2,6 @@ from ultralytics import YOLO
 import cv2
 import base64
 from PIL import Image
-from waitress import serve
 
 from flask import Flask, jsonify, request, render_template
 from flask_cors import CORS
