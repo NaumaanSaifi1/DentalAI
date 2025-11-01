@@ -54,7 +54,7 @@ static/           # JS/CSS and other static assets
 ## Usage / Endpoints
 
 - Open a browser and navigate to http://127.0.0.1:8000 (or the host/port printed by `app.py`).
-- The UI in `templates/index.html` and `static/script.js` provide the front-end.
+- The UI in `templates/index.html` and `static/script.js` provide the front-end!.
 
 
 
